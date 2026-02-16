@@ -39,4 +39,5 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________ 
 <img width="839" height="769" alt="logged into domain controller and verified Client 1 shows up in ADUC and created a new OU named CLIENTS" src="https://github.com/user-attachments/assets/20d83415-151d-4abb-8da0-ef78ed4724b0" /> 
 ________________________________________________________________________________________________________________________________________________________
--  Logged into Domain Controller and verified Client-1 shows up in ADUC and created a new "OU" named "CLIENT-1"
+-  Logged into Domain Controller and verified Client-1 shows up in ADUC and created a new "OU" named "_CLIENTS"
+________________________________________________________________________________________________________________________________________________________
