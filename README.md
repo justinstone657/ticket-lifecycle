@@ -10,4 +10,7 @@ ________________________________________________________________________________
 -  First step is setting up the Domain controller and Client-1 in Azure. 
 
 (Have to set Domain controller's NIC Private IP address to be static and log into the VM and disable the windows firewall for testing connectivity)
-________________________________________________________________________________________________________________________________________________________ 
+________________________________________________________________________________________________________________________________________________________
+<img width="1920" height="1080" alt="Disabling the firewall in DC-1 virtual machine" src="https://github.com/user-attachments/assets/7b7db585-e1a3-4f9b-8a8d-9adc057573fd" /> 
+- All of the firewalls in the Domain Controller VM are disabled (for testing connectivity)
+________________________________________________________________________________________________________________________________________________________
