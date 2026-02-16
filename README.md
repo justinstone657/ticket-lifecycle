@@ -33,3 +33,6 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________ 
 -  In Active Directory users and computers (ADUC), I created two organizational units (OU) called "_EMPLOYESS" and "_ADMINS".
 ________________________________________________________________________________________________________________________________________________________
+<img width="1920" height="1080" alt="Created a new employee named jane doe and added jane admin to domain admins security group" src="https://github.com/user-attachments/assets/cf9bd876-7ebb-4528-9abf-b0c39bf88347" />
+________________________________________________________________________________________________________________________________________________________ 
+-  I created a new employee named jane doe, and added "jane_admin" to domain admins security group.
