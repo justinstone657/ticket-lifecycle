@@ -22,3 +22,10 @@ ________________________________________________________________________________
 <img width="1920" height="1080" alt="Run IP config all in Client-1 VM to identify DC-1 private IP address in Client-1&#39;s DNS Servers  " src="https://github.com/user-attachments/assets/c968e398-e15a-4a6f-98d7-4e46344a800c" />
 ________________________________________________________________________________________________________________________________________________________ 
 -  Run ipconfig /all in Client-1's VM to identify DC-1 Private IP address within Client-1's DNS servers.
+________________________________________________________________________________________________________________________________________________________ 
+<img width="1920" height="1080" alt="Login to DC-1 VM and install active directory domain services " src="https://github.com/user-attachments/assets/83f3c594-333b-469c-9db5-a536dc5905a8" />
+________________________________________________________________________________________________________________________________________________________ 
+-  Login to DC-1 VM and install active directory domain services
+
+-  (Promoted as a DC and setup a new forest as "mydomain.com"
+________________________________________________________________________________________________________________________________________________________
