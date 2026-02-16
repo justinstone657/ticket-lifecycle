@@ -29,3 +29,7 @@ ________________________________________________________________________________
 
 -  (Promoted as a DC and setup a new forest as "mydomain.com")
 ________________________________________________________________________________________________________________________________________________________
+<img width="1921" height="1080" alt="In Active Directory users and computers ADUC I created an organizational Unit OU called EMPLOYEES and ADMINS" src="https://github.com/user-attachments/assets/b98ce029-0a87-4dd1-b26a-7552f80872cb" />
+________________________________________________________________________________________________________________________________________________________ 
+-  In Active Directory users and computers (ADUC), I created two organizational units (OU) called "_EMPLOYESS" and "_ADMINS".
+________________________________________________________________________________________________________________________________________________________
