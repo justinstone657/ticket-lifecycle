@@ -10,3 +10,4 @@ ________________________________________________________________________________
 -  First step is setting up the Domain controller and Client-1 in Azure. 
 
 (Have to set Domain controller's NIC Private IP address to be static and log into the VM and disable the windows firewall for testing connectivity)
+________________________________________________________________________________________________________________________________________________________ 
