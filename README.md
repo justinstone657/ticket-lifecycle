@@ -36,3 +36,7 @@ ________________________________________________________________________________
 <img width="1920" height="1080" alt="Created a new employee named jane doe and added jane admin to domain admins security group" src="https://github.com/user-attachments/assets/cf9bd876-7ebb-4528-9abf-b0c39bf88347" />
 ________________________________________________________________________________________________________________________________________________________ 
 -  I created a new employee named jane doe, and added "jane_admin" to domain admins security group.
+________________________________________________________________________________________________________________________________________________________ 
+<img width="839" height="769" alt="logged into domain controller and verified Client 1 shows up in ADUC and created a new OU named CLIENTS" src="https://github.com/user-attachments/assets/20d83415-151d-4abb-8da0-ef78ed4724b0" /> 
+________________________________________________________________________________________________________________________________________________________
+-  Logged into Domain Controller and verified Client-1 shows up in ADUC and created a new "OU" named "CLIENT-1"
