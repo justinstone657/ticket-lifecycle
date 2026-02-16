@@ -44,4 +44,4 @@ ________________________________________________________________________________
 <img width="630" height="360" alt="image" src="https://github.com/user-attachments/assets/f9beaa26-a185-42b2-b775-89f3659869ef" /> 
 ________________________________________________________________________________________________________________________________________________________
 -  That is all for this Lab!
--  In this lab I successfully set-up Active Directory for it to be deployed and practiced creating a bunch of additional users witness the changes within accounts in each "OU"
+-  In this lab I successfully set-up Active Directory for it to be deployed and practiced creating a bunch of additional users and witness the changes within accounts in each "OU"
